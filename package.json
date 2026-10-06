@@ -1,7 +1,7 @@
 {
   "name": "pear",
   "version": "3.0.0",
-  "description": "pear",
+  "description": "Installer for the Pear Runtime",
   "main": "pear.js",
   "bin": {
     "pear": "pear.js"
