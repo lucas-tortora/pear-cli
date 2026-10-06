@@ -16,7 +16,8 @@ Linux needs `libatomic` (Debian/Ubuntu: `sudo apt install libatomic1`).
 
 ## Docs
 
-- [Getting started](https://docs.pears.com/pear/getting-started/) (other install methods)
+- [Getting started](https://docs.pears.com/pear/getting-started/)
+- [Other install methods](https://docs.pears.com/pear/getting-started/#install-pear)
 - [CLI reference](https://docs.pears.com/pear/reference/pear/cli/)
 - [API reference](https://docs.pears.com/pear/reference/pear/api/)
 - [Troubleshooting](https://docs.pears.com/pear/how-to/troubleshooting/)
